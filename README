@@ -2,3 +2,4 @@
 This project demonstrates the synchronization of multiple threads without using wait command. This project doesn't take any
 input. There are three types of threads used in this project named as Clock, Visitors and Speaker each with some jobs and 
 routines. The output file can further describe what each and every thread is doing in code.
+Note: the output file format is such that every line represents an action performed by a thread where the number in square bracket [] shows the time action perform at.
