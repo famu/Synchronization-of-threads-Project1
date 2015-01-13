@@ -1,0 +1,69 @@
+[1]Visitor-1:arrives Ellis Island and waits in the lobby.
+[2]Visitor-3:arrives Ellis Island and waits in the lobby.
+[1]Visitor-2:arrives Ellis Island and waits in the lobby.
+[2]Visitor-4:arrives Ellis Island and waits in the lobby.
+[2]Visitor-6:arrives Ellis Island and waits in the lobby.
+[2]Visitor-5:arrives Ellis Island and waits in the lobby.
+[2]Visitor-7:arrives Ellis Island and waits in the lobby.
+[2]Visitor-9:arrives Ellis Island and waits in the lobby.
+[2]Visitor-8:arrives Ellis Island and waits in the lobby.
+[3]Visitor-11:arrives Ellis Island and waits in the lobby.
+[3]Visitor-10:arrives Ellis Island and waits in the lobby.
+[3]Visitor-12:arrives Ellis Island and waits in the lobby.
+[3]Visitor-14:arrives Ellis Island and waits in the lobby.
+[3]Visitor-15:arrives Ellis Island and waits in the lobby.
+[3]Visitor-13:arrives Ellis Island and waits in the lobby.
+[6]Speaker : arrives and waits for the show to start
+[6]Clock: sets session 1 and notifies all visitors to enter the room.
+[6]Visitor-1: enters the room and takes an available seat.
+[9]Visitor-2: enters the room and takes an available seat.
+[9]Visitor-3: enters the room and takes an available seat.
+[9]Visitor-4: enters the room and takes an available seat.
+[9]Visitor-5: enters the room and takes an available seat.
+[9]Visitor-6: enters the room and takes an available seat.
+[3006]Speaker : starts presentation for 1st session.
+[7007]Speaker : finishes the presentation for the 1st session.
+[10007]Clock: ends session 1 announces break and notifies attendent visitors to visit the Museum.
+[10007]Visitor-1: goes to Museum after movie
+[10007]Visitor-4: goes to Museum after movie
+[10007]Visitor-2: goes to Museum after movie
+[10007]Visitor-6: goes to Museum after movie
+[10007]Visitor-3: goes to Museum after movie
+[10007]Visitor-5: goes to Museum after movie
+[15007]Clock: sets session 2 and notifies all visitors to enter the room.
+[15007]Visitor-7: enters the room and takes an available seat.
+[15007]Visitor-8: enters the room and takes an available seat.
+[15007]Visitor-9: enters the room and takes an available seat.
+[15007]Visitor-10: enters the room and takes an available seat.
+[15007]Visitor-11: enters the room and takes an available seat.
+[15008]Visitor-12: enters the room and takes an available seat.
+[18007]Speaker : starts presentation for 2nd session.
+[22008]Speaker : finishes the presentation for the 2nd session.
+[25008]Clock: ends session 2 and notifies all (attendant/wating) visitors to visit the Museum.
+[25008]Visitor-14: goes to Museum without attendenting movies
+[25008]Visitor-15: goes to Museum without attendenting movies
+[25008]Visitor-9: goes to Museum after movie
+[25008]Visitor-13: goes to Museum without attendenting movies
+[25008]Visitor-7: goes to Museum after movie
+[25008]Visitor-10: goes to Museum after movie
+[25008]Visitor-8: goes to Museum after movie
+[25008]Visitor-11: goes to Museum after movie
+[25008]Visitor-12: goes to Museum after movie
+[28008]Clock: signals the end of the day and notifies visitors to leave the Museum.
+[28008]Speaker : leaves.
+[40009]Visitor-15: leaves the Museum.
+[40009]Visitor-14: leaves the Museum.
+[40009]Visitor-13: leaves the Museum.
+[40010]Visitor-12: leaves the Museum.
+[40010]Visitor-11: leaves the Museum.
+[40010]Visitor-10: leaves the Museum.
+[40010]Visitor-9: leaves the Museum.
+[40010]Visitor-8: leaves the Museum.
+[40010]Visitor-7: leaves the Museum.
+[40011]Visitor-6: leaves the Museum.
+[40011]Visitor-5: leaves the Museum.
+[40011]Visitor-4: leaves the Museum.
+[40011]Visitor-3: leaves the Museum.
+[40011]Visitor-2: leaves the Museum.
+[40011]Visitor-1: leaves the Museum.
+[48008]Clock: Museum closed
