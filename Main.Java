@@ -13,7 +13,7 @@ public class Main  {
 	
 	public static long time = System.currentTimeMillis();
 	public static int Num_visitors=15;
-	static Visitors[] Visitor= new Visitors[15];
+	static Visitors[] Visitor= new Visitors[Num_visitors];
 	static Clock clock;
 	static Speaker speaker;
 	public static void main(String[] args){
